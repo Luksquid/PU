@@ -11,5 +11,3 @@ ylabel('Liczba')
 xgrid
 title(['Statystyki demograficzne z roku 2019'], 'fontsize', 4)
 legend('Liczba urodzeń', 'Liczba zgonów', 1)
-
-["Styczeń" "Luty" "Marzec" "Kwiecień" "Maj" "Czerwiec" "Lipiec" "Sierpień" "Wrzesień" "Pażdziernik" "Listopad" "Grudzień"]
